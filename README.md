@@ -31,4 +31,4 @@ For more details, check out the relevant notebook in a sub-folder!
 ### Credits
 - Please credit us if you use this work :)
 
-Created by [Pierre Mackenzie](pierre.wiki) with help from Valentin Magis and Niall Meagher.
+Created by [Pierre Mackenzie](https://pierre.wiki) with help from Valentin Magis and Niall Meagher.
