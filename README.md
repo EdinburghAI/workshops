@@ -3,7 +3,7 @@
 <a href="https://scikit-learn.org/stable/"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"></a>
 <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"></a>
 
-Hey! We're [EdinburghAI](https://edinburghai.org)! 
+Hey! We're [EdinburghAI](https://edinburghai.org).
 
 This is the repo for our yearly workshops. These workshops are designed for beginners who have done some high-school level maths/programming before but not any machine learning. They are normally completed after a short lecture presented at the start of each workshop but they contain all the explanations required so can be completed independently of the workshops. 
 
