@@ -5,32 +5,28 @@
 
 Hey! We're [EdinburghAI](https://edinburghai.org).
 
-This is the repo for our yearly workshops. These workshops are designed for beginners who have done some high-school level maths/programming before but not any machine learning. They are normally completed after a short lecture presented at the start of each workshop but they contain all the explanations required so can be completed independently of the workshops. 
+These are our workshops. They are designed for beginners who have done some high-school level maths/programming before but with little or no machine learning experience. They are normally completed after a short lecture presented at the start of each workshop but they contain all of the explanations required so can be completed independently. 
 
-The purpose of each workshop is for students to gain an intuition for why and how machine learning works (or doesn't...). Hopefully you'll be inspired to learn more, or to go and build something cool! 
+The purpose of each workshop is for students to gain an intuition for why and how machine learning works (or doesn't...). Hopefully you'll be inspired to learn more, or to go and build something cool at our [Expo](https://www.edinburghai.org/expo)!
 
-Each workshop is a Python notebook. There are 4 which cover:
+Each workshop is a Python notebook. There are 4:
 
 1. Introduction to Machine Learning
 2. Neural Networks
 3. Computer Vision
 4. Natural Langauge Processing
 
-For more details, check out the relevant notebook in a sub-folder.
-
-### Logistics
-- **When**: Every 2 weeks on Monday at 17pm
-- **Where**: AT 5.04
+For more details, check out the relevant notebook in each sub-folder. If you've never used a Python notebook before, start with workshop 1. To get started with a notebook: 
 
 ### Getting Started
+
+To get started with a notebook, do these in order:
 - Go to [kaggle.com](https://kaggle.com) and create an account
 - Create a new notebook
 - Click File -> Import Notebook -> Github
 - Search 'EdinburghAI/workshops'
 - Select the relevant week/workshop that you want to cover
 - Learn and build 🚀
+- For workshop 1 you will also need to add the relevant dataset under 'Add input -> Datasets -> Search EdinburghAI -> Select EdinburghAI-Workshop1'
 
-### Credits
-- Please credit us if you use this work :)
-
-Created by [Pierre Mackenzie](https://pierre.wiki) with help from Valentin Magis and Niall Meagher.
+Created by [Pierre Mackenzie](https://pierre.wiki) with help from Valentin Magis and Niall Meagher. Please credit us if you use our work :)
