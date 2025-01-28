@@ -18,9 +18,9 @@ Semester 1:
 4. Natural Langauge Processing
 
 Semester 2:
-5. Building a Spotify DJ Radio Show
-6. Building a Sign Language Translator
-7. Building a Flappy Bird AI
+1. Building a Spotify DJ Radio Show
+2. Building a Sign Language Translator
+3. Building a Flappy Bird AI
 
 For more details, check out the relevant notebook in each sub-folder. If you've never used a Python notebook before, start with workshop 1. To get started with a notebook: 
 
