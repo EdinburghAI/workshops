@@ -1,0 +1,7 @@
+gymnasium
+numpy
+matplotlib
+flappy-bird-gymnasium
+swig
+torch
+pyyaml

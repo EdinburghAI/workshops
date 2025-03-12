@@ -3,3 +3,4 @@ myenv/
 */solutions/
 MNIST/
 .python-version
+venv/
