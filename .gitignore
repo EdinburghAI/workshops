@@ -4,3 +4,5 @@ myenv/
 MNIST/
 .python-version
 venv/
+
+.venv

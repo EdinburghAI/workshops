@@ -1,0 +1,13 @@
+[project]
+name = "workshops"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "ipykernel>=6.30.1",
+    "numpy==1.26.4",
+    "pandas>=2.3.3",
+    "pip>=25.2",
+    "sentence-transformers>=5.1.1",
+]
