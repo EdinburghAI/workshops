@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "968bb83dc056bfa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "846a2dcf3ffb6d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5af27ac1e78000b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dataset_backbone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dataset_backbone"
+            }
+          },
+          {
+            "id": "6936d2cbe5d88fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intersection_over_union.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intersection_over_union"
+            }
+          },
+          {
+            "id": "c6edb156e342b3cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "loss_function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "loss_function"
+            }
+          },
+          {
+            "id": "a23002a4afb3f27f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "model_backbone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "model_backbone"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b6f34d74f3bf4af",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b4e73b135ef724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fd2060fa4d6ce86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2a435716877f078f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c65f6b223438e0cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edf04c309848d677",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e3b1c6db8f4f46b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77fbdb1ef82a3e04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "model_backbone.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for model_backbone"
+            }
+          },
+          {
+            "id": "4b7489e448df44ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "model_backbone.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from model_backbone"
+            }
+          },
+          {
+            "id": "a76150c0875d3c8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c777d9ebc107b02",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "25bab37ff492ec96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "model_backbone.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of model_backbone"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a23002a4afb3f27f",
+  "lastOpenFiles": [
+    "loss_function.md",
+    "intersection_over_union.md",
+    "dataset_backbone.md",
+    "Additional-notes/Batching.md",
+    "Additional-notes/Computational Training Graphs.md",
+    "Additional-notes/Glossary.md",
+    "Additional-notes/Tensors.md",
+    "Additional-notes/Training Loops in PyTorch.md",
+    "Additional-notes/Our Loss function logic.md",
+    "Untitled.md",
+    "model_backbone.md",
+    "Glossary.md",
+    "Additional-notes",
+    "Overall-main-file-structure.md",
+    "Pasted image 20260130204808.png",
+    "Welcome.md"
+  ]
+}
