@@ -6,3 +6,5 @@ MNIST/
 venv/
 
 .venv
+# Obsidian in case people want to add notes to the repo
+.obsidian/
