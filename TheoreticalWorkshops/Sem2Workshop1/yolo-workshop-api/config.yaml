@@ -1,0 +1,20 @@
+training:
+  batch_size: 16
+  epochs: 50
+  test_data_size: 0.2
+
+loss_weights:
+  coord_loss_weight: 5.0
+  confidence_loss_weight: 0.5
+
+data:
+  img_size: 448
+  parquet_path: "./cleaned_labels.parquet"
+
+optimizer_params:
+  learning_rate: 0.0001
+  weight_decay: 0.00005
+
+evaluation:
+  iou_threshold: 0.25
+  confidence_threshold: 0.5
