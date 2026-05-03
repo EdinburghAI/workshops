@@ -22,9 +22,8 @@ Most sessions were designed around Kaggle because it gave students the easiest s
 | Theoretical | [Single-Object YOLO Detection](TheoreticalWorkshops/Sem2Workshop1) | A custom single-object detector with bounding-box loss and IoU evaluation | PyTorch, pandas, YAML |
 | Theoretical | [RNNs and LSTMs](TheoreticalWorkshops/Sem2Workshop2) | A time-series model for detecting throw attempts in judo pose sequences | PyTorch, NumPy, scikit-learn |
 | Practical | [Notes to Podcast](PracticalWorkshops/Notes-To-Podcast) | A local RAG pipeline that turns university notes into a two-host podcast | FAISS, Ollama, Kokoro TTS |
-| Practical archive | [Open Source AI Radio Show](PracticalWorkshops/archive/Sem2Workshop1) | A local AI radio/podcast prototype over university notes | FAISS, Ollama, Kokoro TTS |
-| Practical archive | [ASL Interpreter](PracticalWorkshops/archive/Sem2Workshop2) | A sign-language classifier using hand landmarks and image models | MediaPipe, OpenCV, scikit-learn, TensorFlow |
-| Practical archive | [Flappy Bird RL](PracticalWorkshops/archive/Sem2Workshop3) | A DQN agent trained to play Flappy Bird | Gymnasium, PyTorch |
+| Practical | [ASL Interpreter](PracticalWorkshops/ASL-Interpreter) | A sign-language classifier using hand landmarks and image models | MediaPipe, OpenCV, scikit-learn, TensorFlow |
+| Practical | [Flappy Bird RL](PracticalWorkshops/Flappy-Bird) | A DQN agent trained to play Flappy Bird | Gymnasium, PyTorch |
 
 ## How To Run A Workshop
 
@@ -54,7 +53,8 @@ TheoreticalWorkshops/
 
 PracticalWorkshops/
   Notes-To-Podcast/
-  archive/
+  ASL-Interpreter/
+  Flappy-Bird/
 ```
 
 Notebook filenames are mostly preserved from the live workshop material so old Kaggle imports and shared links do not break. The README files use consistent labels such as student notebook, solution notebook, beginner, intermediate, and advanced.
