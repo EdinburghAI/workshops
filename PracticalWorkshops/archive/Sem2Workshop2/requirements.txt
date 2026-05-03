@@ -1,6 +1,0 @@
-mediapipe
-cv2
-matplotlib
-numpy
-pandas
-torch
