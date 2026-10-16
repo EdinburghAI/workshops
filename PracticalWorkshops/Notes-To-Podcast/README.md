@@ -4,6 +4,8 @@ This practical workshop builds a local podcast generator over university notes. 
 
 <audio controls src="assets/notebook-audio-01.wav"></audio>
 
+[Listen to the example podcast](assets/notebook-audio-01.wav) if the embedded player is unavailable.
+
 ## Notebooks And Data
 
 | File | Use |
@@ -25,10 +27,18 @@ This workshop was designed for Kaggle.
 
 1. Import `notes-to-podcast-all-levels.ipynb` from GitHub.
 2. Turn on internet access in Kaggle.
-3. Run the setup cells that install `uv`, FAISS, Ollama, Kokoro, and `espeak-ng`.
+3. Ensure `uv` is available before the first `uv pip` cell; the notebooks use it but do not install it. Run the setup cells for FAISS, Ollama, Kokoro and `espeak-ng`.
 4. Run the notebook from top to bottom.
 
 The notebook downloads the notes CSV from this repo, so no separate Kaggle dataset is required for the current version.
+
+The reference notebook uses `all-MiniLM-L6-v2` sentence embeddings, FAISS retrieval, Ollama's `qwen3:1.7b` and two Kokoro voices. Internet access is needed for the initial package, model and CSV downloads. A GPU helps with embedding and conversation generation.
+
+For local use, the setup cells assume a Linux environment with `apt` and shell tools. Provide an Ollama server and the notebook's Python and speech dependencies, and use the included CSV if you do not download it. These cells are not directly portable to a standard Windows Jupyter environment.
+
+## Related Workshop
+
+For the embeddings refresher referenced by an outdated notebook link, use the current [Language Models solved notebook](../../TheoreticalWorkshops/intro-to-large-language-models/LanguageModels-Solved.ipynb).
 
 ## Credits
 

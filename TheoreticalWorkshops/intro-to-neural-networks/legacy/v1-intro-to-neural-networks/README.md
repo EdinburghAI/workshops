@@ -1,6 +1,8 @@
-# Neural Networks
+# Neural Networks (Legacy v1)
 
-This workshop moves from the intuition of a single neuron to training a small neural network in PyTorch. It is the bridge between classical ML from Workshop 1 and the deep-learning workshops that follow.
+These are the earlier workshop notebooks retained for reference. Use the [current main workshop](../../README.md) for the latest notebooks and accompanying slides.
+
+This workshop moves from the intuition of a single neuron to training a small neural network in PyTorch. It is the bridge between [classical machine learning](../../../intro-to-machine-learning/README.md) and the deep-learning workshops that follow.
 
 <img src="https://storage.googleapis.com/kaggle-media/learn/images/mfOlDR6.png" alt="Diagram of a linear unit" width="320">
 
@@ -9,7 +11,7 @@ This workshop moves from the intuition of a single neuron to training a small ne
 | Notebook | Use |
 | --- | --- |
 | [NeuralNetworks-Beginner.ipynb](NeuralNetworks-Beginner.ipynb) | Starter version with more direct guidance. |
-| [NeuralNetworks-Intermediate.ipynb](NeuralNetworks-Intermediate.ipynb) | Main workshop version. |
+| [NeuralNetworks-Intermediate.ipynb](NeuralNetworks-Intermediate.ipynb) | Legacy student version with implementation gaps. |
 | [NeuralNetworks-Expert.ipynb](NeuralNetworks-Expert.ipynb) | More independent implementation. |
 | [NeuralNetworks-Solved.ipynb](NeuralNetworks-Solved.ipynb) | Completed reference notebook. |
 
@@ -30,7 +32,7 @@ For Kaggle:
 2. Keep internet enabled so the MNIST dataset can download.
 3. Run the notebook from top to bottom.
 
-For local use, install PyTorch and torchvision in your environment before opening the notebook.
+For local use, provide PyTorch, torchvision, Matplotlib, scikit-learn and tqdm before opening the notebook. MNIST is downloaded by torchvision into `data/`, so no separate Kaggle dataset attachment is required. Complete the student prompts and consult the solved notebook for missing imports and implementations.
 
 ## Credits
 

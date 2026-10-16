@@ -18,6 +18,7 @@ This workshop teaches reinforcement learning through a game environment. Student
 - A Gymnasium environment for Flappy Bird.
 - A small Q-network in PyTorch.
 - Experience replay and epsilon-greedy exploration.
+- A target network synchronised with the policy network.
 - A training loop that improves the policy through rewards.
 - A visualization of the environment and learned agent behavior.
 
@@ -29,6 +30,10 @@ This workshop was designed for Kaggle.
 2. Turn on internet access.
 3. Run the dependency-install cell for `flappy-bird-gymnasium`, `gymnasium`, `torch`, `matplotlib`, and `tqdm`.
 4. Run the notebook cells in order.
+
+No external dataset is required: experience is collected by playing the environment. The notebooks compare lidar and non-lidar observations, then train with `use_lidar=False`.
+
+For local use, open the notebook in Jupyter and provide the packages in the install cells. The supplied requirements list also includes supporting packages, but omits tqdm, which the notebooks import. To visualise the included checkpoint without training a new one, place `best_flappy_model.pt` in the notebook's working directory or pass its actual location as `model_path`. Importing a notebook into Kaggle does not automatically upload that checkpoint.
 
 GPU is helpful for training, but the environment exploration sections can run without one.
 
