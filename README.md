@@ -21,6 +21,7 @@ Most sessions were designed around Kaggle because it gave students the easiest s
 | Foundations | [Neural Networks](TheoreticalWorkshops/intro-to-neural-networks/README.md) | A first PyTorch neural network and MNIST classifier | PyTorch, torchvision |
 | Foundations | [Computer Vision with CNNs](TheoreticalWorkshops/intro-to-convolutional-neural-networks/README.md) | Convolution demos, satellite-image classification, transfer learning and face segmentation | PyTorch, torchvision, transformers |
 | Foundations | [Language Models](TheoreticalWorkshops/intro-to-large-language-models/README.md) | Embeddings, semantic search, sentiment fine-tuning and GPT-2 generation | gensim, sentence-transformers, transformers |
+| Theoretical | [Intro to RAG](TheoreticalWorkshops/intro-to-rag/README.md) | Semantic search, document chunking, FAISS retrieval, prompt injection failure modes and multi-hop agentic RAG | transformers, sentence-transformers, FAISS |
 | Theoretical | [CNN Class Visualisation](TheoreticalWorkshops/cnn-class-visualisation/README.md) | Images optimised to activate classes and intermediate layers of a frozen ResNet50 | PyTorch, torchvision |
 | Theoretical | [Single-Object YOLO Detection](TheoreticalWorkshops/yolo-single-raccoon-box-bounding/README.md) | A raccoon detector with confidence/box loss and IoU evaluation | PyTorch, pandas, PyYAML |
 | Theoretical | [Where's Wally? Detection](TheoreticalWorkshops/yolo-wheres-wally/README.md) | Synthetic training images and a CNN with a heatmap and bounding-box head | PyTorch, torchvision, Pillow |
@@ -59,6 +60,7 @@ TheoreticalWorkshops/
     legacy/v1-intro-to-neural-networks/
   intro-to-convolutional-neural-networks/
   intro-to-large-language-models/
+  intro-to-rag/
   cnn-class-visualisation/
   yolo-single-raccoon-box-bounding/
     workshop-notebooks/
@@ -91,4 +93,4 @@ Some notebooks and supporting notes still contain links to the previous reposito
 
 ## Credits
 
-Created by [Pierre Mackenzie](https://pierre.wiki) and [Leo Camacho](https://www.leocamacho.co), with help from Valentin Magis, Niall Meagher, Finlay Ross, Conor O'Shea, and Edinburgh AI workshop contributors. Please credit Edinburgh AI if you use or adapt this material.
+Created by [Pierre Mackenzie](https://pierre.wiki) and [Leo Camacho](https://www.leocamacho.co), with help from Shayaan Absar, Valentin Magis, Niall Meagher, Finlay Ross, Conor O'Shea, and Edinburgh AI workshop contributors. Please credit Edinburgh AI if you use or adapt this material.
